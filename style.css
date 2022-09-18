@@ -1,0 +1,92 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.cntr{
+    padding-left: 10px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    background-color: black;
+    color: white;   
+    border-radius: 20px; 
+}
+.txt{
+    font-size: 140px;
+    padding-top: 200px;
+    color: blue;
+}
+.big{
+    font-size: 60px;
+    color: blue;
+}
+.set{
+    padding-top: 200px;
+}
+.txtt{
+    padding-top: 300px;
+}
+.pic{
+    margin-top: 50px;
+    width: 450px;
+    height: 600px;
+}
+.pic2{
+    height: 200px;
+    width: 400px;
+    margin-top: 400px;
+}
+.form{
+    padding-top: 100px;
+}
+.fnt{
+    color: blue;
+    font-size: 80px;
+}
+.dd{
+    width: 320px;
+}
+.btn{
+    border: 1px solid black;
+    width: 320px;
+}
+.btnnn:hover{
+    background-color:black;
+    color: white;
+}
+.btnn :hover{
+    background-color:black;
+    color: white;
+}
+.hd{
+    font-size: 80px;
+    color: blue;
+}
+.set{
+    margin-top: 10px;
+}
+.pic3{
+    width: 400px;
+    margin-left: 200px;
+}
+
+.pic4{
+    height: 200px;
+    width: 400px;
+    margin-top: 500px;
+    margin-left: 20px;
+}
+.pic5{
+    height: 300px;
+    width: 400px;
+    margin-top: 200px;
+}
+.pic6{
+    width: 400px;
+    height: 500px;
+    margin-top: 200px;
+}
+.last{
+    margin: 50px;
+}
